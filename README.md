@@ -4,6 +4,7 @@ and it should not take a lot of time and if some changes will be requested I cou
 
 # Bugs:
     - it is possible to open trade page without coins loaded. Just open home page and return to trade again, to fix a problem
+    - When you type number with comma on Trade page seems like it stops calculating result
 
 # Possible improvements:
     - Make more consistent design. App is workable but looks not good
