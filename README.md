@@ -1,3 +1,21 @@
+This task shows my knowledge in React, React Query, zustand.
+Of course there are bugs and place for improvements, but it is a test task,
+and it should not take a lot of time and if some changes will be requested I could do them. I spend a day for this app.
+
+# Bugs:
+    - it is possible to open trade page without coins loaded. Just open home page and return to trade again, to fix a problem
+
+# Possible improvements:
+    - Make more consistent design. App is workable but looks not good
+    - Add sorting, at the momement only search implemented and it is local, API does not support search functionality
+    - Add some loaders - when new data is loading
+    - Implement useInfiniteQuery. I spent some time trying to implement it but it does not work with this API, but worked with others, magic, but potentially could be solved
+    - Maybe persist for auth should be added. Because after reload you need to login again
+    - Clean code to use one type of styling - module or classes
+
+# PS: I am opened for questions and requests for any improvements
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
